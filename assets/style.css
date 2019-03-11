@@ -1,0 +1,14 @@
+body{
+	background-image: url(images/tranquil-background-1.jpg);
+	text-align: center;
+}
+
+.text-muted{
+	color: white;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
